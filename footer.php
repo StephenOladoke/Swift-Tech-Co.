@@ -8,7 +8,7 @@
                              <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                                                                                                                                                 <div class="footer_logo">
             <a href="index.php" class="mb-3 d-flex">
-            <img src="img/logo.svg" alt="" width="170px;">
+            <img src="img/Swift Tech Logo (2).png" alt="" width="190px;">
         </a>
      <p>Swift Tech Co. - Before we talk destination, we shine a spotlight across your organization
 	to fully understand its people, processes, and technology.
@@ -367,6 +367,33 @@ $('.blog-slider').slick({
 
  });
 
+</script>
+
+<script>
+      // Project carousel
+      $(".project-carousel").owlCarousel({
+        autoplay: true,
+        smartSpeed: 1000,
+        margin: 25,
+        loop: true,
+        nav: false,
+        dots: true,
+        dotsData: true,
+        responsive: {
+            0:{
+                items:1
+            },
+            768:{
+                items:2
+            },
+            992:{
+                items:3
+            },
+            1200:{
+                items:4
+            }
+        }
+    });
 </script>
 
 

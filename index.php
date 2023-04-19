@@ -1,4 +1,5 @@
-		<?php include("header.php");?>
+<?php include("header.php");?>
+
 		
 <div class="slider-section">
 <!-- revolution slider -->
@@ -8,7 +9,7 @@
 <div id="revolution-slider-half">
               <ul>
 
-                  <li data-transition="random" data-slotamount="10" data-masterspeed="1200" data-delay="5000">
+                  <li data-transition="random" data-slotamount="10" data-masterspeed="1200" data-delay="50003">
                       <!--  BACKGROUND IMAGE -->
                       <img style="filter: brightness(100%);" src="img/slider/slider5.jpeg" alt=""/>
                       <div class="tp-caption slide-big-heading sft"
@@ -18,7 +19,7 @@
                           data-start="400"
                           data-easing="easeInOutExpo"
                           data-endspeed="450">
-                       <span style="color:#fd9b28;"> best of</span> <span style="color:#fff">business planning <BR>advisor & specialist</span>
+                       <span style="color:#79031d;"> best of</span> <span style="color:#fff">business planning <BR>advisor & specialist</span>
                       </div>
 
                       <div class="tp-caption btn-slider sfb"
@@ -41,7 +42,7 @@
                           data-start="400"
                           data-easing="easeInOutExpo"
                           data-endspeed="450">
-                       <span style="color:#fd9b28;"> best of</span> <span style="color:#fff">business planning <BR>advisor & specialist</span>
+                       <span style="color:#79031d;"> best of</span> <span style="color:#fff">business planning <BR>advisor & specialist</span>
 
                       
                       </div>
@@ -66,6 +67,221 @@
 <!-- revolution slider end -->
 
 </div>
+ <!-- About Start -->
+ <!-- <div class="container-xxl py-5">
+        <div class="container">
+            <div class="row g-5">
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="img-border">
+                        <img class="img-fluid" src="img/aboutTech.png" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="h-100">
+                        <h6 class="aboutsection-title bg-white text-start text-primary pe-3">About Us &nbsp; </h6>
+                        <h1 class="display-6 mb-4">#1 Digital Solution With <span class="text-primary2">10 Years</span> Of Experience</h1>
+                        <p>Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                        <p class="mb-4">Stet no et lorem dolor et diam, amet duo ut dolore vero eos. No stet est diam rebum amet diam ipsum. Clita clita labore, dolor duo nonumy clita sit at, sed sit sanctus dolor eos.</p>
+                        <div class="d-flex align-items-center mb-4 pb-2">
+                            <img class="flex-shrink-0 rounded-circle" src="img/Stephenimg.jpg" alt="" style="width: 50px; height: 50px;">
+                            <div class="ps-4">
+                                <h6>Stephen Ajibola Oladoke</h6>
+                                <small>CEO & Founder</small>
+                            </div>
+                        </div>
+                        <a class="btn btn-primary rounded-pill py-3 px-5" href="">Read More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> -->
+    <!-- About End -->
+    <section class="client-section bggray">
+<div class="container">
+    <div class="row">
+	  <div class="col-md-12">
+	    <div class="client-outer">
+	  <div class="slick-slider client-slider">
+          <div class="wow-outer">
+<div class="item wow slideInLeft"  data-wow-delay=".1s">
+            <img src="img/client/promasidor-logo.png" class="img-fluid" alt="Imageteam">
+        </div>
+				</div>
+                <div class="wow-outer">
+<div class="item wow slideInLeft"  data-wow-delay=".3s">
+            <img src="img/client/10.png" class="img-fluid" alt="Imageteam">
+        </div>
+				</div>
+                <div class="wow-outer">
+<div class="item wow slideInLeft"  data-wow-delay=".3s">
+            <img src="img/client/jevision.jpg" width="140px;" height="150px;" class="img-fluid" alt="Imageteam">
+        </div>
+				</div>
+				 <div class="wow-outer">
+<div class="item wow slideInLeft"  data-wow-delay=".3s">
+            <img src="img/client/11.png" class="img-fluid" alt="Imageteam">
+        </div>
+				</div>
+				<div class="wow-outer">
+<div class="item wow slideInLeft" data-wow-delay=".5s">
+            <img src="img/client/restaurantlogo.png" width="800px;" class="img-fluid" alt="Imageteam">
+        </div>
+				</div>
+					
+					<div class="wow-outer">
+             <div class="item wow slideInLeft" data-wow-delay=".9s">
+            <img src="img/client/15.png" class="img-fluid" alt="Imageteam">
+        </div>
+				</div>
+				<div class="wow-outer">
+             <div class="item wow slideInLeft" data-wow-delay=".10s">
+            <img src="img/client/6.png" class="img-fluid" alt="Imageteam">
+        </div>
+				</div>
+				
+				<div class="wow-outer">
+             <div class="item wow slideInLeft" data-wow-delay=".1s">
+            <img src="img/client/7.png" class="img-fluid" alt="Imageteam">
+        </div>
+				</div>
+				
+				
+				
+			
+            </div>
+	 
+	 </div>
+	</div>
+	
+ 
+           
+     
+	</div>
+</div>
+</section>
+
+<section class="achivement-bg">
+<div class="container">
+   <div class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="about-info sec-padd text-center mb-5">
+                    <div class="section-title">
+                        <h2>What our amazing clients say about us</h2>
+                    </div>
+                </div>
+            </div>
+	  
+	  <div class="col-md-12">
+   <div class="slick-slider blog-slider">
+          <div>
+<div class="item text-white">
+                                <div class="success_items">
+                                    <div class="user-profile-test">
+                                        <a href="#"><img src="img/stephenimg.jpg" alt="Success"
+										class="user_img img-fluid"></a>
+                                    </div>
+                                    <div class="text-md-left text-center">
+                                       <div class="info">
+                                      <h4 class="no_stripe">
+                                      <a href="" tabindex="0">
+                                    Stephen (Ajibola) Oladoke 
+									</a>
+                                         </h4>
+                                        <!-- <div class="position">Senior &amp; Marketing</div> -->
+                                        <div class="position">Senior Software Engineer</div>
+                                            <div class="company">Swift Tech Co.</div>
+                                      <p>Swift Tech Co. really helped us achieve our financial goals.
+									  The slick presentation along with fantastic readability ensures 
+									  that our financial standing is stable.</p>
+                    </div>
+                                    </div>
+                                </div>
+                            </div>
+	</div>
+    <div>
+	<div class="item text-white">
+                                <div class="success_items">
+                             
+                                    <div class="user-profile-test">
+                                        <a href="#">  <img src="img/stephenimg.jpg" alt="Success"
+										class="user_img img-fluid"></a>
+                                    </div>
+                                    <div class="text-md-left text-center">
+                                        <div class="info">
+                                      <h4 class="no_stripe">
+                                      <a href="" tabindex="0">
+                                    Stephen (Ajibola) Oladoke 
+									</a>
+                                         </h4>
+                                         <div class="position">Senior Software Engineer</div>
+                                            <div class="company">Swift Tech Co.</div>
+                                      <p>Swift Tech Co. really helped us achieve our financial goals.
+									  The slick presentation along with fantastic readability ensures 
+									  that our financial standing is stable.</p>
+                        </div>
+                                    </div>
+                                </div>
+                            </div>
+	</div>
+    <div>
+	  <div class="item text-white">
+                                <div class="success_items">
+                         
+                                    <div class="user-profile-test">
+                                         <a href="#"><img src="img/stephenimg.jpg" alt="Success"
+										 class="user_img img-fluid"></a>
+                                    </div>
+                                    <div class="text-md-left text-center">
+                                         <div class="info">
+                                      <h4 class="no_stripe">
+                                      <a href="" tabindex="0">
+                                    Stephen (Ajibola) Oladoke  
+									</a>
+                                         </h4>
+                                         <div class="position">Senior Software Engineer</div>
+                                            <div class="company">Swift Tech Co.</div>
+                                      <p>Swift Tech Co. really helped us achieve our financial goals.
+									  The slick presentation along with fantastic readability ensures 
+									  that our financial standing is stable.</p>
+                        </div>
+                                    </div>
+                                </div>
+                            </div>
+	</div>
+	    <div>
+	 <div class="item text-white">
+                                <div class="success_items">
+                               
+                                    <div class="user-profile-test">
+                                        <a href="#">  <img src="img/stephenimg.jpg" alt="Success" 
+										class="user_img img-fluid"></a>
+                                    </div>
+                                    <div class="text-md-left text-center">
+                                        <div class="info">
+                                      <h4 class="no_stripe">
+                                      <a href="" tabindex="0">
+                                    Stephen (Ajibola) Oladoke  
+									</a>
+                                         </h4>
+                                         <div class="position">Senior Software Engineer</div>
+                                            <div class="company">Swift Tech Co.</div>
+                                      <p>Swift Tech Co. really helped us achieve our financial goals.
+									  The slick presentation along with fantastic readability ensures 
+									  that our financial standing is stable.</p>
+                    </div>
+                                    </div>
+                                </div>
+                            </div>
+	</div>
+	  
+</div>
+
+</div>
+</div>
+</div>
+</section>
+
+
 
 
 <section class="service what-bg">
@@ -81,14 +297,74 @@
             <div class="col-md-4 col-sm-6 col-xs-12">
 			      <div class="we-do-item">
 				      <div class="we-icon">
-					      <i class="fas fa-plane-departure"></i>
+					      <i class="fas fa-globe"></i>
 					  </div> 
                        <div class="we-desc">
-					       <h4 class="we-title">Web Development</h4>
+					       <h4 class="we-title">Website Development</h4>
 						   <P>Company that offers design and build services for you from initial sketches to the final production.</p>
 					   </div>					  
 				  </div>
             </div>
+
+            <div class="col-md-4 col-sm-6 col-xs-12">
+			  <div class="we-do-item">
+				      <div class="we-icon">
+					      <i class="fas fa-search"></i>
+					  </div> 
+                       <div class="we-desc">
+					       <h4 class="we-title">SEO & Backlinks</h4>
+						   <P>We work across all the major geographies, meaning we understand the underlying drivers in construction markets.</p>
+					   </div>					  
+				  </div>
+            </div>
+
+            <div class="col-md-4 col-sm-6 col-xs-12">
+			      <div class="we-do-item">
+				      <div class="we-icon">
+					      <i class="fas fa-code"></i>
+					  </div> 
+                       <div class="we-desc">
+					       <h4 class="we-title">Front End Development</h4>
+						   <P>Company that offers design and build services for you from initial sketches to the final production.</p>
+					   </div>					  
+				  </div>
+            </div>
+
+            <div class="col-md-4 col-sm-6 col-xs-12">
+			      <div class="we-do-item">
+				      <div class="we-icon">
+					      <i class="fas fa-server"></i>
+					  </div> 
+                       <div class="we-desc">
+					       <h4 class="we-title">Back End Development</h4>
+						   <P>Company that offers design and build services for you from initial sketches to the final production.</p>
+					   </div>					  
+				  </div>
+            </div>
+        
+            <div class="col-md-4 col-sm-6 col-xs-12">
+			      <div class="we-do-item">
+				      <div class="we-icon">
+					      <i class="fa-brands fa-apple"></i>
+					  </div> 
+                       <div class="we-desc">
+					       <h4 class="we-title">Mobile App Development(IOS)</h4>
+						   <P>Company that offers design and build services for you from initial sketches to the final production.</p>
+					   </div>					  
+				  </div>
+            </div>
+            <div class="col-md-4 col-sm-6 col-xs-12">
+			      <div class="we-do-item">
+				      <div class="we-icon">
+					      <i class="fa-brands fa-android"></i>
+					  </div> 
+                       <div class="we-desc">
+					       <h4 class="we-title">Mobile App Development(Andriod)</h4>
+						   <P>Company that offers design and build services for you from initial sketches to the final production.</p>
+					   </div>					  
+				  </div>
+            </div>
+           
             <div class=" col-md-4 col-sm-6 col-xs-12">
 			 <div class="we-do-item">
 				      <div class="we-icon">
@@ -103,10 +379,10 @@
             <div class="col-md-4 col-sm-6 col-xs-12">
 			  <div class="we-do-item">
 				      <div class="we-icon">
-					      <i class="fas fa-luggage-cart"></i>
+					      <i class="fas fa-bullhorn"></i>
 					  </div> 
                        <div class="we-desc">
-					       <h4 class="we-title">Paid Advertising Strategist</h4>
+					       <h4 class="we-title">Paid Advertising (PPC & PPI)</h4>
 						   <P>Design repeatable growth models and innovation pipelines that generate new products with higher potential and lower risks of failure.</p>
 					   </div>					  
 				  </div>
@@ -114,7 +390,7 @@
 			<div class="col-md-4 col-sm-6 col-xs-12">
 			  <div class="we-do-item">
 				      <div class="we-icon">
-					      <i class="fas fa-luggage-cart"></i>
+					      <i class="fas fa-globe-americas"></i>
 					  </div> 
                        <div class="we-desc">
 					       <h4 class="we-title">Social Media Management</h4>
@@ -125,7 +401,7 @@
 			<div class="col-md-4 col-sm-6 col-xs-12">
 			  <div class="we-do-item">
 				      <div class="we-icon">
-					      <i class="fas fa-luggage-cart"></i>
+					      <i class="fas fa-envelope"></i>
 					  </div> 
                        <div class="we-desc">
 					       <h4 class="we-title">Email Marketing</h4>
@@ -144,9 +420,26 @@
 					   </div>					  
 				  </div>
             </div>
+            <div class="col-md-4 col-sm-6 col-xs-12">
+			  <div class="we-do-item">
+				      <div class="we-icon">
+					      <i class="fas fa-luggage-cart"></i>
+					  </div> 
+                       <div class="we-desc">
+					       <h4 class="we-title">Technical Writing</h4>
+						   <P>We work across all the major geographies, meaning we understand the underlying drivers in construction markets.</p>
+					   </div>					  
+				  </div>
+            </div>
+            <div class="tp-caption btn-slider sfb" style="display:flex; margin-left: 30%; justify-content:center; align-items:center;">
+    <span class="shine" ></span>
+    <a href="#">More Detail</a>
+</div>
+
         </div>
     </div>
 </section>
+
 
 
 
@@ -207,7 +500,7 @@
 <section class="about-faq sec-padd py-5">
     <div class="container">
         <div class="section-title text-center mb-5">
-            <h2>about us &amp; faq's</h2>
+            <h2>About Us &amp; FAQ's</h2>
         </div>
         <div class="row">
             <div class="col-md-6 col-sm-12 col-xs-12">
@@ -236,10 +529,16 @@ support global companies that are leaders in their industries.</p>
 
 <div class="accordion" id="faq">
                     <div class="card">
-                        <div class="card-header" id="faqhead1">
+                        <!-- <div class="card-header" id="faqhead1">
                             <a href="#" class="btn-header-link text-truncate" data-toggle="collapse" data-target="#faq1"
                             aria-expanded="true" aria-controls="faq1">What does Swift Tech Co. do</a>
+                        </div> -->
+
+                        <div class="card-header" id="faqhead1">
+                            <a href="#" class="btn-header-link text-truncate" data-toggle="collapse" data-target="#faq1"
+                                aria-expanded="true" aria-controls="faq1">What does <span style="color:#79031d;">Swift Tech Co.</span> do?</a>
                         </div>
+
 
                         <div id="faq1" class="collapse show" aria-labelledby="faqhead1" data-parent="#faq">
                             <div class="card-body">
@@ -280,187 +579,7 @@ support global companies that are leaders in their industries.</p>
     </div>
 </section>
 
-
-
-
-
 	
-<section class="achivement-bg">
-<div class="container">
-   <div class="row">
-        <div class="col-md-12 col-sm-12 col-xs-12">
-                <div class="about-info sec-padd text-center mb-5">
-                    <div class="section-title">
-                        <h2>testimonials</h2>
-                    </div>
-                </div>
-            </div>
-	  
-	  <div class="col-md-12">
-   <div class="slick-slider blog-slider">
-          <div>
-<div class="item text-white">
-                                <div class="success_items">
-                                    <div class="user-profile-test">
-                                        <a href="#"><img src="img/testimonial/1.jpg" alt="Success"
-										class="user_img img-fluid"></a>
-                                    </div>
-                                    <div class="text-md-left text-center">
-                                       <div class="info">
-                                      <h4 class="no_stripe">
-                                      <a href="" tabindex="0">
-                                    Amanda Seyfried  
-									</a>
-                                         </h4>
-                                        <div class="position">Sales &amp; Marketing</div>
-                                            <div class="company">Alien Ltd.</div>
-                                      <p>Swift Tech Co. really helped us achieve our financial goals.
-									  The slick presentation along with fantastic readability ensures 
-									  that our financial standing is stable.</p>
-                    </div>
-                                    </div>
-                                </div>
-                            </div>
-	</div>
-    <div>
-	<div class="item text-white">
-                                <div class="success_items">
-                             
-                                    <div class="user-profile-test">
-                                        <a href="#">  <img src="img/testimonial/2.jpg" alt="Success"
-										class="user_img img-fluid"></a>
-                                    </div>
-                                    <div class="text-md-left text-center">
-                                        <div class="info">
-                                      <h4 class="no_stripe">
-                                      <a href="" tabindex="0">
-                                    Amanda Seyfried  
-									</a>
-                                         </h4>
-                                        <div class="position">Sales &amp; Marketing</div>
-                                            <div class="company">Alien Ltd.</div>
-                                      <p>Swift Tech Co. really helped us achieve our financial goals.
-									  The slick presentation along with fantastic readability ensures 
-									  that our financial standing is stable.</p>
-                    </div>
-                                    </div>
-                                </div>
-                            </div>
-	</div>
-    <div>
-	  <div class="item text-white">
-                                <div class="success_items">
-                         
-                                    <div class="user-profile-test">
-                                         <a href="#"><img src="img/testimonial/3.jpg" alt="Success"
-										 class="user_img img-fluid"></a>
-                                    </div>
-                                    <div class="text-md-left text-center">
-                                         <div class="info">
-                                      <h4 class="no_stripe">
-                                      <a href="" tabindex="0">
-                                    Amanda Seyfried  
-									</a>
-                                         </h4>
-                                        <div class="position">Sales &amp; Marketing</div>
-                                            <div class="company">Alien Ltd.</div>
-                                      <p>Swift Tech Co. really helped us achieve our financial goals.
-									  The slick presentation along with fantastic readability ensures 
-									  that our financial standing is stable.</p>
-                    </div>
-                                    </div>
-                                </div>
-                            </div>
-	</div>
-	    <div>
-	 <div class="item text-white">
-                                <div class="success_items">
-                               
-                                    <div class="user-profile-test">
-                                        <a href="#">  <img src="img/testimonial/4.jpg" alt="Success" 
-										class="user_img img-fluid"></a>
-                                    </div>
-                                    <div class="text-md-left text-center">
-                                        <div class="info">
-                                      <h4 class="no_stripe">
-                                      <a href="" tabindex="0">
-                                    Amanda Seyfried  
-									</a>
-                                         </h4>
-                                        <div class="position">Sales &amp; Marketing</div>
-                                            <div class="company">Alien Ltd.</div>
-                                      <p>Swift Tech Co. really helped us achieve our financial goals.
-									  The slick presentation along with fantastic readability ensures 
-									  that our financial standing is stable.</p>
-                    </div>
-                                    </div>
-                                </div>
-                            </div>
-	</div>
-	  
-</div>
-
-</div>
-</div>
-</div>
-</section>
-
-
-
-	<section class="client-section bggray">
-<div class="container">
-    <div class="row">
-	  <div class="col-md-12">
-	    <div class="client-outer">
-	  <div class="slick-slider client-slider">
-          <div class="wow-outer">
-<div class="item wow slideInLeft"  data-wow-delay=".1s">
-            <img src="img/client/1.png" class="img-fluid" alt="Imageteam">
-        </div>
-				</div>
-				 <div class="wow-outer">
-<div class="item wow slideInLeft"  data-wow-delay=".3s">
-            <img src="img/client/2.png" class="img-fluid" alt="Imageteam">
-        </div>
-				</div>
-				<div class="wow-outer">
-<div class="item wow slideInLeft" data-wow-delay=".5s">
-            <img src="img/client/3.png" class="img-fluid" alt="Imageteam">
-        </div>
-				</div>
-					
-					<div class="wow-outer">
-             <div class="item wow slideInLeft" data-wow-delay=".9s">
-            <img src="img/client/5.png" class="img-fluid" alt="Imageteam">
-        </div>
-				</div>
-				<div class="wow-outer">
-             <div class="item wow slideInLeft" data-wow-delay=".10s">
-            <img src="img/client/6.png" class="img-fluid" alt="Imageteam">
-        </div>
-				</div>
-				
-				<div class="wow-outer">
-             <div class="item wow slideInLeft" data-wow-delay=".1s">
-            <img src="img/client/7.png" class="img-fluid" alt="Imageteam">
-        </div>
-				</div>
-				
-				
-				
-			
-            </div>
-	 
-	 </div>
-	</div>
-	
- 
-           
-     
-	</div>
-</div>
-</section>
-
 
 <section class="parallax-bg">
    <div class="container">
@@ -486,7 +605,7 @@ support global companies that are leaders in their industries.</p>
     <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="about-info sec-padd text-center mb-5">
                     <div class="section-title">
-                        <h2>company news</h2>
+                        <h2>Company News</h2>
                     </div>
                 </div>
             </div>
@@ -502,7 +621,7 @@ support global companies that are leaders in their industries.</p>
         </div>
         <div class="blogcont">
           <div class="headingblog">
-                      <a href="#">A digital prescription for the pharma industry</a>
+                      <a href="blog1.php">A digital prescription for the pharma industry</a>
           </div>
 
         </div>
@@ -567,5 +686,5 @@ support global companies that are leaders in their industries.</p>
 </section>
 	
 
-	<?php include("footer.php");?>
+<?php include("footer.php");?>
 

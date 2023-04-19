@@ -7,6 +7,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
         <title>Swift Tech Co.</title>
+
+	<!-- Project Page Starts -->
+		 <!-- Icon Font Stylesheet -->
+		 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+		<!-- Libraries Stylesheet -->
+		<link href="lib/animate/animate.min.css" rel="stylesheet">
+		<link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+		<link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+
+		<!-- Customized Bootstrap Stylesheet -->
+		<!-- <link href="css2/bootstrap2.min.css" rel="stylesheet"> -->
+
+		<!-- Template Stylesheet -->
+		<!-- <link href="css2/App.css" rel="stylesheet"> -->
+	<!-- Project Page Ends -->
+
 	    <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="css/bootstrap.min.css">
 	    <!----css3---->
@@ -44,6 +63,19 @@
 
   
   </head>
+  <!--Start of Tawk.to Script-->
+	<script type="text/javascript">
+		var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+		(function(){
+		var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+		s1.async=true;
+		s1.src='https://embed.tawk.to/642328864247f20fefe880f4/1gsklcjgc';
+		s1.charset='UTF-8';
+		s1.setAttribute('crossorigin','*');
+		s0.parentNode.insertBefore(s1,s0);
+		})();
+	</script>
+<!--End of Tawk.to Script-->
   <body>
   
 
@@ -61,7 +93,7 @@
 						<img src="https://beforeifly.com/new/wp-content/uploads/2016/09/canada-flag-animated-gif-23.gif" width="40" alt="CAD">
 							<div class="stm-iconbox__info">
 								<div class="stm-iconbox__text stm-iconbox__text_nomargin">1430 Trafalgar Rd,</div>
-								<div class="stm-iconbox__description">Oaksville, ON, L6H 2L1, Canada</div> 
+								<div class="stm-iconbox__description">Oakville, ON, L6H 2L1, Canada</div> 
 							</div>
 						</div>
 					</div>
@@ -115,7 +147,7 @@
 <div class="header-inner" id="header-inner">
 <div class="container">
   <nav class="navbar navbar-expand-lg my-navbar p-0">
-<a class="navbar-brand" href="index.php"><img src="img/logo.svg" class="img-fluid"/></a>
+<a class="navbar-brand" href="index.php"><img src="img/Swift Tech Logo (2).png"  style="width:190px; height:auto;" class="img-error"/></a>
 <!-- <a class="navbar-brand" href="index.php">Swift Tech Co.</a> -->
 
    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -130,49 +162,52 @@
         <a class="nav-link " href="index.php">Home</a>
       </li>
 	    <li class="nav-item">
-        <a class="nav-link" href="aboutus.php">Aboutus</a>
+        <a class="nav-link" href="about.php">About us</a>
       </li>
 
 	  <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Services</a>
 		  <ul class="dropdown-menu small-menu">
-		     <a href="start-up-services.php">Website Development</a>
-		     <a href="business-process-designredesign.php">Digital Marketing Management</a>
-		     <a href="business-process-management.php">Social Media Management</a>
-		     <a href="business-operation-support.php">Paid Advertising Strategist</a>
-		     <a href="legal-support.php">Email Marketing</a>
-		     <a href="ecfo.html">Technical Writing</a>
-		     <a href="management-consulting.php">Content Creation/Marketing</a>
-		     <a href="business-closerwrapping-up.php">Sales Expert</a>
+			 <a href="front-end-development-services.php">Front End Development</a>
+			 <a href="back-end-development-services.php">Back End Development</a>
+		     <a href="website-development-services.php">Website Development</a>
+		     <a href="mobile-app-development(ios)-services.php">Mobile App Development (IOS)</a>
+		     <a href="mobile-app-development(andriod)-services.php">Mobile App Development (Andriod)</a>
+		     <a href="SEO-Backlinks-services.php">SEO Experts & Backlinks</a>
+		     <a href="digital-marketing-management-services.php">Digital Marketing Management</a>
+		     <a href="social-media-management-services.php">Social Media Management</a>
+		     <a href="paid-advertising-services.php">Paid Advertising (PPC & PPI)</a>
+		     <a href="email-marketing-services.php">Email Marketing</a>
+		     <a href="technical-writing-services.php">Technical Writing</a>
+		     <a href="content-creation-services.php">Content Creation/Marketing</a>
+		     <a href="sales-expert-services.php">Sales Expert</a>
 		  </ul>
       </li>
 
 	   <li class="nav-item">
-        <a class="nav-link" href="our-team.php">Our Team</a>
+        <a class="nav-link" href="projects.php">Projects</a>
       </li>
 	
 	 
 	  <li class="nav-item">
-        <a class="nav-link" href="#">clients</a>
+        <a class="nav-link" href="#">Clients</a>
       </li>
-	  <!-- <li class="nav-item">
-        <a class="nav-link" href="articles.php">Resource</a>
-      </li> -->
+	  <li class="nav-item">
+        <a class="nav-link" href="articles.php">News</a>
+      </li>
 
 	    <li class="nav-item dropdown">
-        <a class="nav-link" href="#" data-toggle="dropdown">Global Partner</a>
+        <a class="nav-link" href="#" data-toggle="dropdown">Global Partners</a>
 		  <ul class="dropdown-menu small-menu">
 		     <a href="usa.php">USA</a>
-		     <a href="india.php">India</a>
-		     <a href="spain.php">Spain</a>
-		     <a href="cyprus.php">Cyprus</a>
-		     <a href="#">Russia</a>
-		     <a href="#">S. Korea</a>
+		     <a href="india.php">Canada</a>
+		     <a href="spain.php">Switzerland</a>
+		     <a href="cyprus.php">Nigeria</a>
 		  </ul>
       </li>
 	  
 	   <li class="nav-item">
-        <a class="nav-link" href="contactus.php">Contactus</a>
+        <a class="nav-link" href="contact.php">Contact</a>
       </li>
     </ul>
 	
